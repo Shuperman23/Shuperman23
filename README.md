@@ -258,8 +258,6 @@ A web-based veterinary management system developed with JavaScript.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuperman23&layout=compact&theme=tokyonight&locale=en" height="180"/>
-
 </div>
 
 ---
