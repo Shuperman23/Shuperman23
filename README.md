@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm Ronny Alexander Ruiz Díaz 👋
+  Hello, I'm Ronny Alexander Ruiz Díaz
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Systems Engineering graduate** based in Costa Rica, with a strong interest in **Quality Assurance, Software Testing, API Testing, and software development**.
 
@@ -30,14 +30,14 @@ I enjoy analyzing how software behaves, finding defects, documenting results, an
 
 I am currently focused on growing professionally as a **Junior QA Engineer** while continuing to strengthen my automation and software development skills.
 
-📍 **San José, Costa Rica**  
-🎓 **Systems Engineering**  
-💼 **Junior QA Engineer**  
-🌎 **English: B1–B2**
+ **San José, Costa Rica**  
+ **Systems Engineering**  
+ **Junior QA Engineer**  
+ **English: B1–B2**
 
 ---
 
-## 🧪 QA & Software Testing
+##  QA & Software Testing
 
 ### Testing
 
@@ -59,7 +59,7 @@ I am currently focused on growing professionally as a **Junior QA Engineer** whi
 
 ---
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -71,7 +71,7 @@ I am currently focused on growing professionally as a **Junior QA Engineer** whi
 
 ---
 
-## 🔌 API & Development Tools
+##  API & Development Tools
 
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
@@ -81,7 +81,7 @@ I am currently focused on growing professionally as a **Junior QA Engineer** whi
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 <p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
@@ -96,7 +96,7 @@ I am currently focused on growing professionally as a **Junior QA Engineer** whi
 
 ---
 
-## 🌐 Networking & Infrastructure
+##  Networking & Infrastructure
 
 - Networking fundamentals
 - CCNA fundamentals
@@ -106,7 +106,7 @@ I am currently focused on growing professionally as a **Junior QA Engineer** whi
 
 ---
 
-## 🔄 Methodologies
+##  Methodologies
 
 <p>
 <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge">
@@ -126,9 +126,9 @@ Academic knowledge in:
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🧪 E-commerce QA Testing Portfolio
+##  E-commerce QA Testing Portfolio
 
 A QA portfolio project focused on demonstrating practical software testing skills.
 
@@ -149,7 +149,7 @@ A QA portfolio project focused on demonstrating practical software testing skill
 
 ---
 
-## 💻 Advanced Programming
+##  Advanced Programming
 
 C# project developed as part of my Systems Engineering studies.
 
@@ -157,7 +157,7 @@ C# project developed as part of my Systems Engineering studies.
 
 ---
 
-## 🎮 DoomInvaders
+##  DoomInvaders
 
 A Python-based game development project created as a programming exercise.
 
@@ -167,7 +167,7 @@ A Python-based game development project created as a programming exercise.
 
 ---
 
-## 🧪 FINAL EXAM
+##  FINAL EXAM
 
 Software development project focused on implementing and presenting programming concepts.
 
@@ -177,7 +177,7 @@ Software development project focused on implementing and presenting programming 
 
 ---
 
-## 🔗 IntegrationEF
+##  IntegrationEF
 
 Software integration project developed using C#.
 
@@ -187,7 +187,7 @@ Software integration project developed using C#.
 
 ---
 
-## 🐾 Sistema Veterinaria
+##  Sistema Veterinaria
 
 A web-based veterinary management system developed with JavaScript.
 
@@ -195,26 +195,26 @@ A web-based veterinary management system developed with JavaScript.
 
 ---
 
-# 🎓 Education
+#  Education
 
 ### Universidad Americana (UAM)
 
-🎓 **Bachelor's Degree in Systems Engineering**  
-📅 Completed: **2025**
+ **Bachelor's Degree in Systems Engineering**  
+ Completed: **2025**
 
 ### Centro Cultural Norte Americano
 
-🎓 **TOEIC / English Certification Process**  
-📅 **2026**
+ **TOEIC / English Certification Process**  
+ **2026**
 
 ### CTP Granadilla
 
-🎓 **Technical Degree in Customer Service Executive**  
-📅 **2019**
+ **Technical Degree in Customer Service Executive**  
+ **2019**
 
 ---
 
-# 💼 Practical Experience
+#  Practical Experience
 
 ### UNED — Agenda Joven
 
@@ -246,7 +246,7 @@ A web-based veterinary management system developed with JavaScript.
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -264,7 +264,7 @@ A web-based veterinary management system developed with JavaScript.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
