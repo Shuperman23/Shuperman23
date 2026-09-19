@@ -282,7 +282,7 @@ A web-based veterinary management system developed with JavaScript.
 
 <div align="center">
 
-### 🚀 Always learning. Always improving.
+###  Always learning. Always improving.
 
 **QA • Software Testing • Automation • Systems Engineering**
 
