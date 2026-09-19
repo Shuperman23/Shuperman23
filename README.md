@@ -250,7 +250,6 @@ A web-based veterinary management system developed with JavaScript.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shuperman23&show_icons=true&theme=tokyonight&locale=en&custom_title=GitHub%20Statistics" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuperman23&theme=tokyonight" height="180"/>
 
